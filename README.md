@@ -1,3 +1,8 @@
+<!--Header-->
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+  
 ## Ola, sou o Eduardo Octávio, estudante e intusiasta em programação  👋
 
 ### Sobre Mim 😎
@@ -8,6 +13,7 @@
 <div>
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=panda&border_radius=20&bg_color=181818,2a2a3c,494d5e" alt="Top Langs!" height=195> 
 </div>
+
 
 <!--
 **EdOc-PS/EdOc-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
