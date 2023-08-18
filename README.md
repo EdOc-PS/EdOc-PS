@@ -1,12 +1,12 @@
 ## Ola, sou o Eduardo Octávio, estudante e intusiasta em programação  👋
 
-## Sobre Mim 😎
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdOc-PS&show_icons=true&theme=panda&&rank_icon=github&border_radius=20&bg_color=181818,2a2a3c,595e74)
+### Sobre Mim 😎
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdOc-PS&show_icons=true&theme=panda&&rank_icon=github&border_radius=20&bg_color=181818,2a2a3c,494d5e)
   <img src = "https://cdn.discordapp.com/attachments/915277680579063808/1142134805786529882/heroi.gif" height=220>
 
 ## Aprendendo ⚡
 <div>
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=panda&border_radius=20&bg_color=181818,2a2a3c,595e74" alt="Top Langs!" height=195> 
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=panda&border_radius=20&bg_color=181818,2a2a3c,494d5e" alt="Top Langs!" height=195> 
 </div>
 
 <!--
