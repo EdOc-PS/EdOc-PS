@@ -1,8 +1,7 @@
-### Ola, sou o Eduardo Octavio, intusiasta em programação  👋
+### Ola, sou o Eduardo Octavio, estudante e intusiasta em programação  👋
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdOc-PS&icons=true&theme=aura)
-
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdOc-PS&show_icons=true&theme=aura)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=aura" alt = "Top Langs!"  height=195 > 
 
 <!--
 **EdOc-PS/EdOc-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
