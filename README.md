@@ -28,13 +28,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  height=50 />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height=50 />
           
-  </div>
-     
-          
-  
-  
-                   
-          
+  </div>                      
 </div>
 
 
