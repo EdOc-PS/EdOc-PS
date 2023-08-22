@@ -10,7 +10,7 @@
 </p>
 </div>
 
-### Sobre Mim 😎
+## Sobre Mim 😎
   <img align=left src="https://github-readme-stats.vercel.app/api?username=EdOc-PS&show_icons=true&theme=panda&&rank_icon=github&border_radius=20&bg_color=181818,2a2a3c,494d5e" alt="GitHub stats">
  
   <samp> Olá, meu nome é <b><a href="https://github.com/EdOc-PS/EdOc-PS">Eduardo Octávio</a></b>! 👋</samp> 
@@ -52,7 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"  height=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=40/>
   
-  ### Aprendendo 🤔
+  ### Estudando 🤔
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height=40 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height=40/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  height=40 />
