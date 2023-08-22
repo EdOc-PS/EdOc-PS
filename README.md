@@ -3,7 +3,7 @@
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
- 
+  
  ### Hello World
 <p>
   <img src = "https://cdn.discordapp.com/attachments/915277680579063808/1142134805786529882/heroi.gif" height=220>
@@ -30,7 +30,7 @@
   </div>
    <div> 
     <a href="https://instagram.com/eduuard_oc" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Insta-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a> 
     <a href="https://twitter.com/Eduuard_Oc" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
@@ -73,4 +73,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://komarev.com/ghpvc/?username=edoc-ps">
+  <img align="right" src="https://komarev.com/ghpvc/?username=edoc-ps&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 -->
