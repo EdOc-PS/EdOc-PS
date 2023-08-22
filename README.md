@@ -11,7 +11,7 @@
 </div>
 
 ### Sobre Mim 😎
-  <img align=left height=215 src="https://github-readme-stats.vercel.app/api?username=EdOc-PS&show_icons=true&theme=panda&&rank_icon=github&border_radius=20&bg_color=181818,2a2a3c,494d5e" alt="GitHub stats">
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=EdOc-PS&show_icons=true&theme=panda&&rank_icon=github&border_radius=20&bg_color=181818,2a2a3c,494d5e" alt="GitHub stats">
  
   <samp> Olá, meu nome é <b><a href="https://github.com/EdOc-PS/EdOc-PS">Eduardo Octávio</a></b>!</samp> 
   
