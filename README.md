@@ -3,8 +3,15 @@
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-  
- ### Hello World
+
+<div>
+  <img src="https://i.pinimg.com/originals/03/9c/79/039c79d8b2430aa14680b5a7b627e5c0.gif" height=50> 
+</div>
+<div>
+  <samp>Hello World!</samp>
+</div>
+
+
 <p>
   <img src = "https://cdn.discordapp.com/attachments/915277680579063808/1142134805786529882/heroi.gif" height=220>
 </p>
