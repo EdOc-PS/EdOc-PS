@@ -55,7 +55,7 @@
 ## Aprendendo ⚡
   <img align=right height=215 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=panda&border_radius=15&bg_color=181818,2a2a3c,494d5e" alt="Top Langs!"> 
 
-  ### Dominio 🤠
+  ### Familiarizado 🤠
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=40 />
