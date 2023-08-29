@@ -48,7 +48,7 @@
     <a href="https://linkedin.com/in/eduardo-octávio-284066259" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-279EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
     </a>
-    <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <a href="mailto:eeuardoprofissional@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
     </a>
 
