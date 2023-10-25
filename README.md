@@ -1,7 +1,7 @@
 <!--Header-->
 <div align = center> 
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a67348,50:775a8c,100:316c74&height=100&section=header"/>
   </p>
   <p>
     <img src="https://i.pinimg.com/originals/03/9c/79/039c79d8b2430aa14680b5a7b627e5c0.gif" height=50> 
