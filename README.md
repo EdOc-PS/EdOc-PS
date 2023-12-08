@@ -42,8 +42,8 @@
     <a href="https://instagram.com/eduuard_oc" target="_blank">
       <img src="https://img.shields.io/badge/Insta-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a> 
-    <a href="https://twitter.com/Eduuard_Oc" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
+    <a href="https://wa.me/5531983175944" target="_blank">
+      <img src="https://img.shields.io/badge/Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/eduardo-octávio-284066259" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-279EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
