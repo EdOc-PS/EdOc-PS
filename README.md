@@ -60,7 +60,7 @@
     <img src= "https://img.shields.io/badge/html5-E34C26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34C26" />
     <img src= "https://img.shields.io/badge/css3-264DE4?style=for-the-badge&labelColor=white&logo=css3&logoColor=264DE4" />
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" />
-    <img src= "https://img.shields.io/badge/java-F89820?style=for-the-badge&labelColor=F6F1EE&logo=openjdk&logoColor=F89820" />
+    <img src= "https://img.shields.io/badge/java-E36414?style=for-the-badge&labelColor=F6F1EE&logo=openjdk&logoColor=E36414" />
    
   
   ### Estudando 🤔
