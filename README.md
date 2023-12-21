@@ -60,14 +60,14 @@
     <img src= "https://img.shields.io/badge/html5-E34C26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34C26" />
     <img src= "https://img.shields.io/badge/css3-264DE4?style=for-the-badge&labelColor=white&logo=css3&logoColor=264DE4" />
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" />
-    <img src= "https://img.shields.io/badge/java-E36414?style=for-the-badge&labelColor=F6F1EE&logo=openjdk&logoColor=E36414" />
+    <img src= "https://img.shields.io/badge/java-E36414?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=E36414" />
    
   
   ### Estudando 🤔
-  <img src= "https://img.shields.io/badge/CSharp-5C4B99?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src= "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src= "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src= "https://img.shields.io/badge/csharp-5C4B99?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src= "https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0000FF" />
+  <img src= "https://img.shields.io/badge/php-474A8A?style=for-the-badge&labelColor=white&logo=php&logoColor=474A8A" />
+  <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
   </div>
 </div>
 
