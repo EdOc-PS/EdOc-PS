@@ -40,7 +40,7 @@
   </div>
    <div> 
     <a href="https://instagram.com/eduuard_oc" target="_blank">
-      <img src="https://img.shields.io/badge/Insta-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a> 
     <a href="https://wa.me/5531983175944" target="_blank">
       <img src="https://img.shields.io/badge/Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=white" />
@@ -57,10 +57,11 @@
 
   ### Familiarizado 🤠
   <div>
-    <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
+    <img src= "https://img.shields.io/badge/html5-E34C26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34C26" />
+    <img src= "https://img.shields.io/badge/css3-264DE4?style=for-the-badge&labelColor=white&logo=css3&logoColor=264DE4" />
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" />
+    <img src= "https://img.shields.io/badge/java-F89820?style=for-the-badge&labelColor=F6F1EE&logo=openjdk&logoColor=F89820" />
+   
   
   ### Estudando 🤔
   <img src= "https://img.shields.io/badge/CSharp-5C4B99?style=for-the-badge&logo=c-sharp&logoColor=white" />
