@@ -64,10 +64,10 @@
    
   
   ### Estudando 🤔
-  <img src= "https://img.shields.io/badge/csharp-5C4B99?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Csharp-239120?style=for-the-badge&labelColor=white&logo=csharp&logoColor=239120" />
   <img src= "https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0000FF" />
   <img src= "https://img.shields.io/badge/php-474A8A?style=for-the-badge&labelColor=white&logo=php&logoColor=474A8A" />
-  <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
+  <img src= "https://img.shields.io/badge/unity-white?style=for-the-badge&labelColor=black&logo=unity&logoColor=white" />
   </div>
 </div>
 
