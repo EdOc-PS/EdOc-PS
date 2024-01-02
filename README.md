@@ -3,14 +3,12 @@
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a67348,50:775a8c,100:316c74&height=100&section=header"/>
   </p>
-  <p>
-    <img src="https://i.pinimg.com/originals/03/9c/79/039c79d8b2430aa14680b5a7b627e5c0.gif" height=50> 
-  </p>
-  <p>
-    <samp>Hello World!</samp>
-  </p>
+
   <p>
     <img src = "https://cdn.discordapp.com/attachments/915277680579063808/1142134805786529882/heroi.gif" height=220>
+  </p>
+    <p>
+    <samp>Hello World!</samp>
   </p>
 </div>
 <div align="right">
@@ -67,7 +65,7 @@
   <img src= "https://img.shields.io/badge/Csharp-239120?style=for-the-badge&labelColor=white&logo=csharp&logoColor=239120" />
   <img src= "https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0000FF" />
   <img src= "https://img.shields.io/badge/php-474A8A?style=for-the-badge&labelColor=white&logo=php&logoColor=474A8A" />
-  <img src= "https://img.shields.io/badge/unity-white?style=for-the-badge&labelColor=black&logo=unity&logoColor=white" />
+  <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
   </div>
 </div>
 
