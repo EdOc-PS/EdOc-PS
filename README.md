@@ -66,6 +66,7 @@
   <img src= "https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0000FF" />
   <img src= "https://img.shields.io/badge/php-474A8A?style=for-the-badge&labelColor=white&logo=php&logoColor=474A8A" />
   <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
+  <img src= "https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=white&logo=typescript&logoColor=3178C6" />
   </div>
 </div>
 
