@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    <img src = "https://cdn.discordapp.com/attachments/915277680579063808/1142134805786529882/heroi.gif" height=220>
+    <img src = "https://github.com/EdOc-PS/EdOc-PS/assets/94386792/f2c9ebbf-f287-4b48-87f0-e4eb4952cf96" height=220>
   </p>
     <p>
     <samp>Hello World!</samp>
