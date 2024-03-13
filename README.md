@@ -68,6 +68,7 @@
   <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
   <img src= "https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=white&logo=typescript&logoColor=3178C6" />
   <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=white&logo=angular&logoColor=DD0031" />
+  <img src= "https://img.shields.io/badge/Python-white?style=for-the-badge&labelColor=4584B6&logo=python&logoColor=FFDE57" />
   </div>
 </div>
 
