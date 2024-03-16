@@ -50,7 +50,7 @@
       <img src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
     </a>
 
-## Aprendendo ⚡
+## Tecnologias ⚡
   <img align=right height=215 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=panda&border_radius=0&bg_color=181818,2a2a3c,494d5e" alt="Top Langs!"> 
 
   ### Familiarizado 🤠
