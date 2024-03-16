@@ -59,6 +59,8 @@
     <img src= "https://img.shields.io/badge/css3-264DE4?style=for-the-badge&labelColor=white&logo=css3&logoColor=264DE4" />
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" />
     <img src= "https://img.shields.io/badge/java-E36414?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=E36414" />
+    <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=white&logo=angular&logoColor=DD0031" />
+    <img src= "https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=white&logo=typescript&logoColor=3178C6" />
    
   
   ### Estudando 🤔
@@ -66,8 +68,6 @@
   <img src= "https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0000FF" />
   <img src= "https://img.shields.io/badge/php-474A8A?style=for-the-badge&labelColor=white&logo=php&logoColor=474A8A" />
   <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
-  <img src= "https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=white&logo=typescript&logoColor=3178C6" />
-  <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=white&logo=angular&logoColor=DD0031" />
   <img src= "https://img.shields.io/badge/Python-white?style=for-the-badge&labelColor=4584B6&logo=python&logoColor=FFDE57" />
   </div>
 </div>
