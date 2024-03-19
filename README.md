@@ -1,7 +1,7 @@
 <!--Header-->
 <div align = center> 
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a67348,50:775a8c,100:316c74&height=100&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5e84,50:6f61c0,100:08ffc8&height=100&section=header"/>
   </p>
 
   <p>
@@ -73,6 +73,9 @@
 </div>
 
 <!--
+
+a67348 - 775a8c - 316c74
+
 **EdOc-PS/EdOc-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
