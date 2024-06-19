@@ -66,7 +66,6 @@
   ### Estudando 🤔
   <img src= "https://img.shields.io/badge/Csharp-239120?style=for-the-badge&labelColor=white&logo=csharp&logoColor=239120" />
   <img src= "https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0000FF" />
-  <img src= "https://img.shields.io/badge/php-474A8A?style=for-the-badge&labelColor=white&logo=php&logoColor=474A8A" />
   <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
   <img src= "https://img.shields.io/badge/React-191B21?style=for-the-badge&labelColor=23272F&logo=react&logoColor=58C4DC" />
   <img src= "https://img.shields.io/badge/Python-white?style=for-the-badge&labelColor=4584B6&logo=python&logoColor=FFDE57" />
