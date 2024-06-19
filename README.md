@@ -59,7 +59,7 @@
     <img src= "https://img.shields.io/badge/css3-264DE4?style=for-the-badge&labelColor=white&logo=css3&logoColor=264DE4" />
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" />
     <img src= "https://img.shields.io/badge/java-E36414?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=E36414" />
-    <img src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=white&logo=angular&logoColor=DD0031" />
+    <img src= "https://img.shields.io/badge/Angular-B6002C?style=for-the-badge&labelColor=DD0031&logo=angular&logoColor=white" />
     <img src= "https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=white&logo=typescript&logoColor=3178C6" />
    
   
