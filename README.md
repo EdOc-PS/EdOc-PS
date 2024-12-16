@@ -62,6 +62,7 @@
     <img src= "https://img.shields.io/badge/Angular-B6002C?style=for-the-badge&labelColor=DD0031&logo=angular&logoColor=white" />
     <img src= "https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=white&logo=typescript&logoColor=3178C6" />
     <img src= "https://img.shields.io/badge/React-191B21?style=for-the-badge&labelColor=23272F&logo=react&logoColor=58C4DC" />
+    <img src= "https://img.shields.io/badge/sass-CD669A?style=for-the-badge&labelColor=white&logo=sass&logoColor=CD669A" />
   
   ### Estudando 🤔
   <img src= "https://img.shields.io/badge/Csharp-239120?style=for-the-badge&labelColor=white&logo=csharp&logoColor=239120" />
