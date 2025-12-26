@@ -24,7 +24,7 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 
 <br/><br/>
 
-<a href="https://eduardo-octavio.vercel-red.app" target="_blank">
+<a href="https://eduardo-octavio-red.vercel.app" target="_blank">
   <img 
     src="https://img.shields.io/badge/%20Meu%20Site-583EBC?style=for-the-badge&logo=vercel&logoColor=white"
   />
