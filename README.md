@@ -1,92 +1,132 @@
-<!--Header-->
-<div align = center> 
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5e84,50:6f61c0,100:08ffc8&height=100&section=header"/>
-  </p>
-
-  <p>
-    <img src = "https://github.com/EdOc-PS/EdOc-PS/assets/94386792/f2c9ebbf-f287-4b48-87f0-e4eb4952cf96" height=220>
-  </p>
-    <p>
-    <samp>Hello World!</samp>
-  </p>
+<div align="center">
+  <img src="https://github.com/EdOc-PS/EdOc-PS/assets/94386792/f2c9ebbf-f287-4b48-87f0-e4eb4952cf96" height="210"/>
 </div>
+
+<div align="center">
+  <samp>Hello! Welcome to my GitHub 👋</samp>
+</div>
+
 <div align="right">
-<a href="https://komarev.com/ghpvc/?username=edoc-ps">
-  <img src="https://komarev.com/ghpvc/?username=edoc-ps&label=Visitantes&color=0EA293&style=for-the-badge" alt="Profile visitor"/>
-</a>
+ <img 
+  src="https://komarev.com/ghpvc/?username=edoc-ps&label=Visitantes&color=583EBC&style=for-the-badge"
+/>
 </div>
 
-## Sobre Mim 😎 
+---
 
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=EdOc-PS&show_icons=true&theme=panda&&rank_icon=github&border_radius=0&bg_color=181818,2a2a3c,494d5e" alt="GitHub stats">
- 
-  <samp> Olá, meu nome é <b><a href="https://eduardo-octavio.vercel.app">Eduardo Octávio</a></b>! 👋</samp> 
-  
-   <div> 
-     🤖 Atualmente sou estudante de programação;
-   </div>
-   <div> 
-     🏫 Cursando Sistemas de Informação;
-    </div>
-    <div> 
-     🌱 Gosto de aprender coisas novas;
-    </div>
-    <div>   
-      
-  #### 📫 Contate-me: 
-  </div>
-   <div> 
-    <a href="https://instagram.com/eduuard_oc" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a> 
-    <a href="https://wa.me/5531983175944" target="_blank">
-      <img src="https://img.shields.io/badge/Whatsapp-128c7e?style=for-the-badge&logo=Whatsapp&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/eduardo-octávio-284066259" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-279EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
-    </a>
-    <a href="mailto:eeuardoprofissional@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail-F14336?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam"/>
-    </a>
+<div align="center">
 
-## Tecnologias ⚡
-  <img align=right height=215 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=panda&border_radius=0&bg_color=181818,2a2a3c,494d5e" alt="Top Langs!"> 
+# 🧑‍💻 Eduardo Octávio
 
-  ### Familiarizado 🤠
-  <div>
-    <img src= "https://img.shields.io/badge/html5-E34C26?style=for-the-badge&labelColor=white&logo=html5&logoColor=E34C26" />
-    <img src= "https://img.shields.io/badge/css3-264DE4?style=for-the-badge&labelColor=white&logo=css3&logoColor=264DE4" />
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E" />
-    <img src= "https://img.shields.io/badge/java-E36414?style=for-the-badge&labelColor=white&logo=openjdk&logoColor=E36414" />
-    <img src= "https://img.shields.io/badge/Angular-B6002C?style=for-the-badge&labelColor=DD0031&logo=angular&logoColor=white" />
-    <img src= "https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=white&logo=typescript&logoColor=3178C6" />
-    <img src= "https://img.shields.io/badge/React-191B21?style=for-the-badge&labelColor=23272F&logo=react&logoColor=58C4DC" />
-    <img src= "https://img.shields.io/badge/sass-CD669A?style=for-the-badge&labelColor=white&logo=sass&logoColor=CD669A" />
-  
-  ### Estudando 🤔
-  <img src= "https://img.shields.io/badge/Csharp-239120?style=for-the-badge&labelColor=white&logo=csharp&logoColor=239120" />
-  <img src= "https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0000FF" />
-  <img src= "https://img.shields.io/badge/unity-black?style=for-the-badge&labelColor=white&logo=unity&logoColor=black" />
-  <img src= "https://img.shields.io/badge/Python-white?style=for-the-badge&labelColor=4584B6&logo=python&logoColor=FFDE57" />
-  </div>
+<samp>
+Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mobile</b> e <b>Back-end</b>, atuando em projetos com tecnologias como React, Next.js, React Native, Angular, Java, TypeScript e Python. Tenho vivência em ambientes corporativos por meio de estágio e participação em empresa júnior, com contato direto com infraestrutura de TI, integração de sistemas, análise de dados e bancos de dados. Busco oportunidades para aplicar meus conhecimentos e contribuir com soluções eficientes, escaláveis e inovadoras no setor de tecnologia.
+</samp>
+
+<br/><br/>
+
+<a href="https://eduardo-octavio.vercel.app" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/%20Meu%20Site-583EBC?style=for-the-badge&logo=vercel&logoColor=white"
+  />
+</a>
+
+</div>
+
+---
+
+
+<div align="center">
+
+<img 
+  src="https://stats-github-readme.vercel.app/api?username=EdOc-PS&show_icons=true&theme=tokyonight"
+  width="420"
+/>
+<img 
+  src="https://stats-github-readme.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=tokyonight"
+  height="165.45"
+/>
+
+<br/>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=EdOc-PS&theme=tokyo-night"
+  width="770"
+/>
+
+</div>
+
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+### 💻 Desenvolvimento (Web • Mobile • Back-end)
+
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-E36414?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=FFDE57"/>
+<img src="https://img.shields.io/badge/CSharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4DB33D"/>
+
+<br/><br/>
+
+### 🧰 Ferramentas
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Boomi-1A1A1A?style=for-the-badge"/>
+
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://linkedin.com/in/eduardo-octávio-284066259">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:eeuardoprofissional@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/eduuard_oc">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
 
 <!--
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:D76D77,100:FFAF7B&height=70&section=header"/>
+</div>
 
-a67348 - 775a8c - 316c74
-
-**EdOc-PS/EdOc-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:D76D77,100:FFAF7B&height=60&section=footer"/>
+</div>
 -->
