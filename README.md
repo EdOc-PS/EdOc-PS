@@ -24,37 +24,29 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 
 <br/><br/>
 
+## 📫 Contato
+
+<div align="center">
 <a href="https://eduardo-octavio-red.vercel.app" target="_blank">
   <img 
     src="https://img.shields.io/badge/%20Meu%20Site-583EBC?style=for-the-badge&logo=vercel&logoColor=white"
   />
 </a>
+  
+<a href="https://linkedin.com/in/eduardo-octávio-284066259">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:eeuardoprofissional@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/eduuard_oc">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
-
----
-
-
-<div align="center">
-
-<img 
-  src="https://stats-github-readme.vercel.app/api?username=EdOc-PS&show_icons=true&theme=tokyonight"
-  width="420"
-/>
-<img 
-  src="https://stats-github-readme.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=tokyonight"
-  height="165.45"
-/>
-
-<br/>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=EdOc-PS&theme=tokyo-night"
-  width="770"
-/>
-
 </div>
-
 
 ---
 
@@ -100,26 +92,32 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Boomi-1A1A1A?style=for-the-badge"/>
 
-
 ---
-
-## 📫 Contato
 
 <div align="center">
 
-<a href="https://linkedin.com/in/eduardo-octávio-284066259">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img 
+  src="https://stats-github-readme.vercel.app/api?username=EdOc-PS&show_icons=true&theme=tokyonight"
+  width="420"
+/>
+<img 
+  src="https://stats-github-readme.vercel.app/api/top-langs/?username=EdOc-PS&layout=compact&theme=tokyonight"
+  height="165.45"
+/>
 
-<a href="mailto:eeuardoprofissional@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://instagram.com/eduuard_oc">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=EdOc-PS&theme=tokyo-night"
+  width="770"
+/>
 
 </div>
+
+
+---
+
+
 
 <!--
 <div align="center">
