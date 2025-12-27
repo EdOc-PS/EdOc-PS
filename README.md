@@ -40,15 +40,10 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 <a href="mailto:eeuardoprofissional@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://instagram.com/eduuard_oc">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
 </div>
 
----
+
+
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -91,6 +86,7 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Boomi-1A1A1A?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -107,10 +103,8 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 
 <br/>
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=EdOc-PS&theme=tokyo-night"
-  width="770"
-/>
+
+
 
 </div>
 
@@ -127,4 +121,8 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:D76D77,100:FFAF7B&height=60&section=footer"/>
 </div>
+
+<a href="https://instagram.com/eduuard_oc">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 -->
