@@ -66,10 +66,11 @@ Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mo
 
 <img src="https://img.shields.io/badge/Java-E36414?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=FFDE57"/>
-<img src="https://img.shields.io/badge/CSharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4DB33D"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 <br/><br/>
 
