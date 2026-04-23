@@ -60,7 +60,7 @@ prefiro automatizar com scripts, bots ou pipelines.
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ===================== PROJETOS EM DESTAQUE ===================== -->
 ## ⭐ Projetos em destaque
