@@ -100,12 +100,11 @@ Back-end de um e-commerce de plantas 🌱 com foco em arquitetura escalável, AP
 
 <!-- Texto resumo da stack -->
 <p align="center">
-<p>
 Minha stack é focada em produtividade e consistência. Trabalho principalmente com TypeScript no ecossistema Web,
 além de Python e Java para automação e robustez. Uso MySQL, PostgreSQL e MongoDB para dados.
 Git + Conventional Commits, Docker, Figma e Postman fazem parte do fluxo diário.
 </p>
-</p>
+
 
 <div align="start">
 
