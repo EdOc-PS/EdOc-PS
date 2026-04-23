@@ -93,7 +93,7 @@ Back-end de um e-commerce de plantas 🌱 com foco em arquitetura escalável, AP
 
 <!-- Imagem da stack centralizada acima do texto -->
 <div align="center">
-  <img src="./assets/stack.png" width="100px"/>
+  <img src="./assets/stack.png" width="150px"/>
 </div>
 
 <br/>
