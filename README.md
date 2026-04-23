@@ -44,19 +44,19 @@
   <img src="./assets/about-me.png" align="left" width="125px" style="margin-right: 40px; margin-top: 4px;" />
 
   <!-- Texto principal menor -->
-  <sub> 
+  <p> 
     Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mobile</b> e <b>Back-end</b>, 
     atuando com React, Next.js, React Native, Angular, Java, TypeScript e Python. 
     Tenho vivência em ambientes corporativos com infraestrutura, integração de sistemas, 
     análise de dados e bancos de dados. Busco oportunidades para criar soluções eficientes e escaláveis.
-  </sub>
+  </p>
 </div>
 
 <!-- Filosofia pessoal -->
-<sub>
+<p>
 <b>Como penso sobre rotina:</b> se algo leva mais de ~10 minutos por dia e sempre é igual, 
 prefiro automatizar com scripts, bots ou pipelines.
-</sub>
+</p>
 
 </div>
 
@@ -100,11 +100,11 @@ Back-end de um e-commerce de plantas 🌱 com foco em arquitetura escalável, AP
 
 <!-- Texto resumo da stack -->
 <p align="center">
-<sub>
+<p>
 Minha stack é focada em produtividade e consistência. Trabalho principalmente com TypeScript no ecossistema Web,
 além de Python e Java para automação e robustez. Uso MySQL, PostgreSQL e MongoDB para dados.
 Git + Conventional Commits, Docker, Figma e Postman fazem parte do fluxo diário.
-</sub>
+</p>
 </p>
 
 <div align="start">
