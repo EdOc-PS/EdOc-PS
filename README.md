@@ -95,7 +95,7 @@ Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC), focado em criar
     </a>
   </p>
 
-Aplicativo mobile desenvolvido com foco em experiência do usuário, performance e arquitetura escalável utilizando React Native.
+Aplicativo mobile desenvolvido para ser uma gamificação de atividades diárias. Desenvolvido em React-Native como trabalho acadêmico
 
 <!-- ===================== STACK ===================== -->
 <div align="start">
@@ -154,7 +154,6 @@ Git + Conventional Commits, Docker, Figma e Postman fazem parte do fluxo diário
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Boomi-1A1A1A?style=for-the-badge"/>
 
 </div>
 
