@@ -53,7 +53,7 @@
 
 <!-- Filosofia pessoal -->
 <p>
-<b>Como gosto de trabalhar:</b> valorizo ambientes colaborativos e acredito que as melhores soluções surgem da troca de ideias. Gosto de usar a criatividade para transformar desafios em soluções simples, úteis e bem pensadas.
+<b>Como gosto de trabalhar:</b> valorizo ambientes colaborativos e acredito que as melhores soluções surgem da troca de ideias. Gosto de usar a criatividade para transformar desafios em soluções simples e úteis.
 </p>
 
 </div>
