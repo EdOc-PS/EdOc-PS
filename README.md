@@ -1,43 +1,42 @@
 <!-- ===================== HEADER / HERO ===================== -->
-<!-- Imagem principal centralizada -->
 <div align="center">
-  <img src="https://github.com/EdOc-PS/EdOc-PS/assets/94386792/f2c9ebbf-f287-4b48-87f0-e4eb4952cf96" height="210"/>
-</div>
 
-<!-- Saudação + links principais -->
-<div align="center">
-  <samp>Hello! Welcome to my GitHub 👋</samp>
-
-  <!-- Botões de contato -->
+  <!-- Saudação -->
   <div>
-  <!-- Website -->
-  <a href="https://eduardo-octavio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%20Meu%20Site-583EBC?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/eduardo-octávio-284066259">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:eeuardoprofissional@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <samp>Hello! Welcome to my GitHub 👋</samp>
+    <br/><br/>
+    <sub>
+      Olá, sou o Eduardo, desenvolvedor Web/Mobile<br/>
+      Apaixonado pela tecnologia e inovações.
+    </sub>
   </div>
+
+  <!-- Imagem principal -->
+  <img 
+    src="https://github.com/EdOc-PS/EdOc-PS/assets/94386792/f2c9ebbf-f287-4b48-87f0-e4eb4952cf96" 
+    height="230"
+  />
+
+  <!-- Botões sociais  -->
+  <p align="center">
+    <a href="https://eduardo-octavio.vercel.app" style="display: inline-block; padding: 0 22px;"><img src="./assets/web.png" alt="Portfolio" width="35" height="35" style="vertical-align: middle;" /></a>
+    <a href="https://linkedin.com/in/eduardo-octávio" style="display: inline-block; padding: 0 22px;"><img src="./assets/linkedin.png" alt="Linkedin" width="35" height="35" style="vertical-align: middle;" /></a>
+    <a href="mailto:eeuardoprofissional@gmail.com" style="display: inline-block; padding: 0 22px;"><img src="/assets/email.png" alt="Email" width="35" height="35" style="vertical-align: middle;" /></a>
+    <a href="https://github.com/Edoc-PS" style="display: inline-block; padding: 0 22px;"><img src="./assets/github.png" alt="Github" width="35" height="35"" style="vertical-align: middle;" /></a>
+  </p>
 </div>
 
 <!-- Contador de visitas -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=edoc-ps&label=Visitantes&color=583EBC&style=for-the-badge"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=edoc-ps&label=Visitantes&color=A3B3FF&style=for-the-badge"/>
 </div>
 
----
+
 
 <!-- ===================== SOBRE MIM ===================== -->
 <div align="start">
   
-## Sobre mim - 🧑‍💻 Eduardo Octávio
+## 🧑‍💻 Sobre mim 
 
 <!-- Imagem lateral + texto -->
 <div>
@@ -54,8 +53,7 @@
 
 <!-- Filosofia pessoal -->
 <p>
-<b>Como penso sobre rotina:</b> se algo leva mais de ~10 minutos por dia e sempre é igual, 
-prefiro automatizar com scripts, bots ou pipelines.
+<b>Como gosto de trabalhar:</b> valorizo ambientes colaborativos e acredito que as melhores soluções surgem da troca de ideias. Gosto de usar a criatividade para transformar desafios em soluções simples, úteis e bem pensadas.
 </p>
 
 </div>
@@ -67,8 +65,8 @@ prefiro automatizar com scripts, bots ou pipelines.
 
 <!-- ---------- SINALIZA ---------- -->
 <p>
-  <a href="https://github.com/EdOc-PS/sinaliza-frontend">
-    <img src="https://img.shields.io/badge/SINALIZA-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=6C63FF" alt="Sinaliza — TCC no GitHub" />
+  <a href="https://github.com/EdOc-PS/sinaliza-frontend" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/SINALIZA-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=6C63FF"/>
   </a>
 </p>
 
@@ -77,14 +75,27 @@ Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC), focado em criar
 <br/>
 
 <!-- ---------- GREENHOUSE ---------- -->
-<p>
-  <a href="https://github.com/EdOc-PS/greenhouse-backend">
-    <img src="https://img.shields.io/badge/GREENHOUSE-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=2E7D32" alt="Greenhouse — Ecommerce Plants no GitHub" />
-  </a>
-</p>
-
-Back-end de um e-commerce de plantas 🌱 com foco em arquitetura escalável, APIs REST e estrutura preparada para evolução do projeto.
+<div>
+  <img src="./assets/projects.png" align="right" width="160px"/>
+  
+  <p>
+    <a href="https://github.com/EdOc-PS/greenhouse-backend" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/GREENHOUSE-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=2E7D32"/>
+    </a>
+  </p>
+  
+  Back-end de um e-commerce de plantas 🌱 com foco em arquitetura escalável, APIs REST e estrutura preparada para evolução do projeto.
+ </div>
 <br/>
+
+<!-- ---------- EVOLVA MOBILE ---------- -->
+  <p>
+    <a href="https://github.com/EdOc-PS/evolva-react-native" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/EVOLVA-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B"/>
+    </a>
+  </p>
+
+Aplicativo mobile desenvolvido com foco em experiência do usuário, performance e arquitetura escalável utilizando React Native.
 
 <!-- ===================== STACK ===================== -->
 <div align="start">
@@ -93,7 +104,7 @@ Back-end de um e-commerce de plantas 🌱 com foco em arquitetura escalável, AP
 
 <!-- Imagem da stack centralizada acima do texto -->
 <div align="center">
-  <img src="./assets/stack.png" width="150px"/>
+  <img src="./assets/stacks.png" width="125px"/>
 </div>
 
 <br/>
