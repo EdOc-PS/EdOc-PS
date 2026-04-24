@@ -14,15 +14,15 @@
   <!-- Imagem principal -->
   <img 
     src="https://github.com/EdOc-PS/EdOc-PS/assets/94386792/f2c9ebbf-f287-4b48-87f0-e4eb4952cf96" 
-    height="230"
+    height="200"
   />
 
   <!-- Botões sociais  -->
   <p align="center">
-    <a href="https://eduardo-octavio.vercel.app" style="display: inline-block; padding: 0 22px;"><img src="./assets/web.png" alt="Portfolio" width="35" height="35" style="vertical-align: middle;" /></a>
-    <a href="https://linkedin.com/in/eduardo-octávio" style="display: inline-block; padding: 0 22px;"><img src="./assets/linkedin.png" alt="Linkedin" width="35" height="35" style="vertical-align: middle;" /></a>
-    <a href="mailto:eeuardoprofissional@gmail.com" style="display: inline-block; padding: 0 22px;"><img src="/assets/email.png" alt="Email" width="35" height="35" style="vertical-align: middle;" /></a>
-    <a href="https://github.com/Edoc-PS" style="display: inline-block; padding: 0 22px;"><img src="./assets/github.png" alt="Github" width="35" height="35"" style="vertical-align: middle;" /></a>
+    <a href="https://eduardo-octavio.vercel.app" style="display: inline-block; padding: 0 22px;"><img src="./assets/web.png" alt="Portfolio" width="30" height="30" style="vertical-align: middle;" /></a>
+    <a href="https://linkedin.com/in/eduardo-octávio" style="display: inline-block; padding: 0 22px;"><img src="./assets/linkedin.png" alt="Linkedin" width="30" height="30" style="vertical-align: middle;" /></a>
+    <a href="mailto:eeuardoprofissional@gmail.com" style="display: inline-block; padding: 0 22px;"><img src="/assets/email.png" alt="Email" width="30" height="30" style="vertical-align: middle;" /></a>
+    <a href="https://github.com/Edoc-PS" style="display: inline-block; padding: 0 22px;"><img src="./assets/github.png" alt="Github" width="30" height="30"" style="vertical-align: middle;" /></a>
   </p>
 </div>
 
