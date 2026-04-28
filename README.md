@@ -44,8 +44,8 @@
 
   <!-- Texto principal menor -->
   <p> 
-    Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b>, <b>Mobile</b> e <b>Back-end</b>, 
-    atuando com React, Next.js, React Native, Angular, Java, TypeScript e Python. 
+    Sou desenvolvedor com experiência prática em desenvolvimento <b>Web</b> e <b>Mobile</b>, 
+    atuando com React, Next.js, React Native, Angular, Java e TypeScript. 
     Tenho vivência em ambientes corporativos com infraestrutura, integração de sistemas, 
     análise de dados e bancos de dados. Busco oportunidades para criar soluções eficientes e escaláveis.
   </p>
