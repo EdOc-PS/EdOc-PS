@@ -40,7 +40,7 @@
 
 <!-- Imagem lateral + texto -->
 <div>
-  <img src="./assets/about-me.png" align="left" width="125px" style="margin-right: 40px; margin-top: 4px;" />
+  <img src="./assets/business.png" align="left" width="125px" style="margin-right: 40px; margin-top: 4px;" />
 
   <!-- Texto principal menor -->
   <p> 
@@ -76,7 +76,7 @@ Sistema desenvolvido como Trabalho de Conclusão de Curso (TCC), focado em criar
 
 <!-- ---------- GREENHOUSE ---------- -->
 <div>
-  <img src="./assets/projects.png" align="right" width="160px"/>
+  <img src="./assets/computer.png" align="right" width="160px"/>
   
   <p>
     <a href="https://github.com/EdOc-PS/greenhouse-backend" style="text-decoration:none;">
@@ -104,7 +104,7 @@ Aplicativo mobile desenvolvido para ser uma gamificação de atividades diárias
 
 <!-- Imagem da stack centralizada acima do texto -->
 <div align="center">
-  <img src="./assets/stacks.png" width="125px"/>
+  <img src="./assets/sea.png" width="125px"/>
 </div>
 
 <br/>
